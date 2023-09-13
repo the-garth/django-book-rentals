@@ -5,6 +5,10 @@ from django.utils.text import slugify
 import uuid
 
 # Create your models here.
+"""
+Books Model
+To be edited in Admin Only
+"""
 
 class BookTitle(models.Model):
   title = models.CharField(max_length=200, unique=True)
