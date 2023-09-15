@@ -1,4 +1,8 @@
 # created by virtualenv automatically
 .vscode
-db.sqlite3
-media/qr_codes/
+
+src/db.sqlite3
+
+src/media/qr_codes/
+share/
+lib/
