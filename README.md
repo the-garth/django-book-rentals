@@ -1,1 +1,0 @@
-# django-book-rentals
